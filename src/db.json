@@ -1,0 +1,33 @@
+{
+  "wishList": {
+    "wishlist": [
+      {
+        "symbol": "08MPD",
+        "name": "Nippon India Mutual Fund",
+        "currency": "INR",
+        "exchange": "BSE",
+        "mic_code": "XBOM",
+        "country": "India",
+        "type": "Common Stock"
+      },
+      {
+        "symbol": "11DPD",
+        "name": "Nippon India Mutual Fund",
+        "currency": "INR",
+        "exchange": "BSE",
+        "mic_code": "XBOM",
+        "country": "India",
+        "type": "Common Stock"
+      },
+      {
+        "symbol": "ABATEAS",
+        "name": "ABATE AS INDUSTRIES LIMITED",
+        "currency": "INR",
+        "exchange": "BSE",
+        "mic_code": "XBOM",
+        "country": "India",
+        "type": "Common Stock"
+      }
+    ]
+  }
+}
